@@ -15,7 +15,7 @@
     "test": "jasmine"
   },
   "dependencies": {
-    "node-hid": "0.7.4",
+    "node-hid": "0.7.8",
     "split": "^1.0.0",
     "underscore": "^1.8.3"
   },
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/agirorn/node-hid-stream.git"
+    "url": "https://github.com/escuela-ideo/node-hid-stream.git"
   },
   "keywords": [
     "HID",
